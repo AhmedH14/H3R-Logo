@@ -1,0 +1,21 @@
+.logo-container {
+  width: 480px;
+  height: 360px;
+  border: 20px solid #fa8820;
+  background-color: rgb(0,0,0);
+  color: rgb(255,255,255);
+  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-size: 240px;
+  font-weight: bolder;
+  font-stretch: ultra-condensed;
+  letter-spacing: -35px;
+  justify-content: center;
+}
+
+.sup1 {
+  color: #fa8820;
+}
+
+.important {
+  padding-left: 10px;
+}
